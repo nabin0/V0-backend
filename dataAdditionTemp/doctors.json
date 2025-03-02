@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Dr. Jacob Jones",
+    "specialization": "Dental Surgeon",
+    "email": "jacob.jones@example.com",
+    "phone": "+1-202-555-0191",
+    "appointmentDetails": {
+      "description": "Tooth Filling",
+      "date": "2025-03-02T09:00:00Z",
+      "time": "09:00 AM"
+    },
+    "imageUrl": "https://i.imgur.com/po02swl.jpeg",
+    "contactIconUrl": "https://i.imgur.com/gKcZHiKb.jpg"
+  },
+  {
+    "name": "Dr. Emily Smith",
+    "specialization": "Cardiologist",
+    "email": "emily.smith@example.com",
+    "phone": "+1-202-555-0123",
+    "appointmentDetails": {
+      "description": "Heart Checkup",
+      "date": "2025-03-02T10:30:00Z",
+      "time": "10:30 AM"
+    },
+    "imageUrl": "https://i.imgur.com/po02swl.jpeg",
+    "contactIconUrl": "https://i.imgur.com/gKcZHiKb.jpg"
+  },
+  {
+    "name": "Dr. Michael Brown",
+    "specialization": "Orthopedic Surgeon",
+    "email": "michael.brown@example.com",
+    "phone": "+1-202-555-0345",
+    "appointmentDetails": {
+      "description": "Knee Surgery Consultation",
+      "date": "2025-03-02T11:00:00Z",
+      "time": "11:00 AM"
+    },
+    "imageUrl": "https://i.imgur.com/po02swl.jpeg",
+    "contactIconUrl": "https://i.imgur.com/gKcZHiKb.jpg"
+  },
+  {
+    "name": "Dr. Olivia Wilson",
+    "specialization": "Pediatrician",
+    "email": "olivia.wilson@example.com",
+    "phone": "+1-202-555-0567",
+    "appointmentDetails": {
+      "description": "Child Vaccination",
+      "date": "2025-03-02T13:00:00Z",
+      "time": "01:00 PM"
+    },
+    "imageUrl": "https://i.imgur.com/po02swl.jpeg",
+    "contactIconUrl": "https://i.imgur.com/gKcZHiKb.jpg"
+  },
+  {
+    "name": "Dr. Ethan Davis",
+    "specialization": "Dermatologist",
+    "email": "ethan.davis@example.com",
+    "phone": "+1-202-555-0789",
+    "appointmentDetails": {
+      "description": "Skin Rash Treatment",
+      "date": "2025-03-02T14:30:00Z",
+      "time": "02:30 PM"
+    },
+    "imageUrl": "https://i.imgur.com/po02swl.jpeg",
+    "contactIconUrl": "https://i.imgur.com/gKcZHiKb.jpg"
+  },
+  {
+    "name": "Dr. Ava Martinez",
+    "specialization": "Neurologist",
+    "email": "ava.martinez@example.com",
+    "phone": "+1-202-555-0678",
+    "appointmentDetails": {
+      "description": "Migraine Consultation",
+      "date": "2025-03-02T15:00:00Z",
+      "time": "03:00 PM"
+    },
+    "imageUrl": "https://i.imgur.com/po02swl.jpeg",
+    "contactIconUrl": "https://i.imgur.com/gKcZHiKb.jpg"
+  },
+  {
+    "name": "Dr. Liam White",
+    "specialization": "ENT Specialist",
+    "email": "liam.white@example.com",
+    "phone": "+1-202-555-0456",
+    "appointmentDetails": {
+      "description": "Hearing Loss Treatment",
+      "date": "2025-03-02T16:30:00Z",
+      "time": "04:30 PM"
+    },
+    "imageUrl": "https://i.imgur.com/po02swl.jpeg",
+    "contactIconUrl": "https://i.imgur.com/gKcZHiKb.jpg"
+  }
+]
