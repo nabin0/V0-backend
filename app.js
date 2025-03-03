@@ -15,7 +15,7 @@ app.use("/api/doctors", doctor_routes);
 
 const start = async () => {
   try {
-    await connectDB(process.env.MONGODB_URL);
+    await connectDB("mongodb+srv://nabinbhatt62:fWorWdxclnsdaTAu@v0.hfizt.mongodb.net/?retryWrites=true&w=majority&appName=V0");
     app.listen(PORT, () => {
       console.log("Connected To PORT Successfully.");
     });
