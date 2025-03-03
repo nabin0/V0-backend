@@ -3,7 +3,7 @@ const express = require("express");
 const app = express();
 const connectDB = require("./db/connect");
 
-const PORT = process.env.PORT || 50000;
+const PORT = process.env.PORT || 3000;
 
 const doctor_routes = require("./route/doctors");
 
